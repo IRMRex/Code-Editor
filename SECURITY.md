@@ -6,8 +6,10 @@ Listed below are the versions that are supported for security updates.
 
 | Version | Supported          |
 | ------- | ------------------ |
+|Betas for 1.0| :heavy_multiplication_x:
 | 1.0.x  | :white_check_mark: |
 
+**When a new major release comes out, migrate as soon as possible!**
 
 ## Reporting a Vulnerability
 
